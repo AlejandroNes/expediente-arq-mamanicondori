@@ -134,3 +134,5 @@ class Demo {
     );
   }
 }
+
+Demo.Correr();
