@@ -61,3 +61,6 @@ const venta = new VentaBuilder()
   .construir();
 
 console.log(venta);
+
+
+export {};
